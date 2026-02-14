@@ -1,3 +1,12 @@
+
+## 在此基础上简单学习Java
+
+自己的一些笔记： 
+
+- [第1章的学习笔记](my-Java-notes/ch1.md)
+
+
+-----
 # Examples for *On Java 8* by Bruce Eckel
 
 If you want to experiment with the code examples from the book [On Java
